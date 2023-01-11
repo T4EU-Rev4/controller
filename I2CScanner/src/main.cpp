@@ -41,5 +41,5 @@ void Scanner ()
 void loop()
 {
   Scanner ();
-  delay (100);
+  delay (5000);
 }
